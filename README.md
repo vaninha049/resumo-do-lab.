@@ -1,6 +1,6 @@
 # resumo-do-lab.
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO -  Microsoft Azure 
-O que é o Azure?
+## O que é o Azure?
 Azure é uma plataforma de computação em nuvem da Microsoft que oferece uma ampla gama de serviços, incluindo computação, análise, armazenamento e redes. É amplamente utilizado por empresas para gerenciar e executar aplicativos em nuvem.
 
 ## Criando uma Conta no Azure
